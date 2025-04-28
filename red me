@@ -1,0 +1,92 @@
+ttp://127.0.0.1:8080/ 
+http://127.0.0.1:8081/ 
+
+port 
+
+http://127.0.0.1:1 
+http://127.0.0.1:65000/ (2**16) 
+protokolas:// domenas
+protokolas:// IP adresas: PORTAS
+http://
+
+
+
+https://www.w3schools.com/tags/default.asp
+
+
+
+Graži diena!!? 
+tag <a> 
+    <a> Read more...</more></a>
+
+    <pavadinimas atrbutas = 'savybes, reiksmes' > 
+         textinis turinys 
+         </pavadinimas> 
+
+        <a href="https://www.w3schools.com/">Example</a>
+  visit W3Schools!
+<a/a>
+      
+
+
+
+tag 
+<div> /* div - skyriai, blokai, skyriai, elementai, kurie gali buti sujungti i viena grupe. 
+    <div class="container"> 
+        <h1>My First Heading</h1> 
+        <p>My first paragraph.</p> 
+    </div>
+
+
+tag <img>  
+    <img> /* img - paveiksliukas, nuotrauka, ikona, paveiksliukas, kuris gali buti rodomas tinklapyje.
+
+    <img src=/a/b/c.jpg (folderiai) 
+    🎯 Project features/goals
+    Github pages
+    no responsive design
+    CSS file
+    FontAwesome icons
+    display: flex
+    hover state
+    bash commands:
+    touch index.html (sukuria faila)
+    touch failas1.txt failas2.txt failas3.txt failas4.txt
+    mkdir img (sukuria folderi/direktorija)
+    mkdir folder1 folder2 folder3 folder4
+    ls -al (stulpeliu atvaizduoja direktorijoje esanti turini)
+    git commands:
+    git init
+    git add .
+    git commit -m "Message text"
+    git push
+    🧰 Getting Started
+    💻 Prerequisites
+    Node.js - download and install
+    
+    https://nodejs.org
+    Git - download and install
+    
+    https://git-scm.com
+    🏃 Run locally
+    Would like to run this project locally? Open terminal and follow these steps:
+    
+    Clone the repo
+    git clone https://github.com/front-end-by-rimantas/54-grupe-astronautas.git
+    Install NPM packages
+    npm i
+    or
+    npm install
+    Run the server
+    npm run dev
+    🧪 Running tests
+    There is no tests for this project.
+    
+    🎅 Authors
+    Rimantas: Github
+    
+    ⚠️ License
+    Distributed under the MIT License. See LICENSE.txt for more information.
+    
+    🔗 Other resources
+    No other resources.
